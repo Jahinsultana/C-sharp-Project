@@ -1,1 +1,1 @@
-# C sharp Project
+# pharmasync-ManagementSystem
